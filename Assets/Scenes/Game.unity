@@ -2416,7 +2416,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &190420696
 Transform:
   m_ObjectHideFlags: 0
@@ -23193,7 +23193,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b4998d378da7de429252faa41778e42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interactionText: I'm an interactable object!
+  interactionText: Put out the lamp
   onInteract:
     m_PersistentCalls:
       m_Calls:
